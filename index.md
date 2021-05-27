@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Vs. Style Overview - Friday Night Funkin' Mod
 
-You can use the [editor on GitHub](https://github.com/StyleCannotCodeForShit/vs-style-code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some stupid mario clone I made up that I decided to put to use. I was bored so I made a mod. Not that bored anymore.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Are you bored? Want a mod? Go play something else you lifeless fu- alright whatever. It's not the best mod, but it'll do you good I assume.
 
 ```markdown
 Syntax highlighted code block
@@ -35,3 +33,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+EVERYTHING BESIDES THE TOP IS PLACEHOLDER RN, I FUCKING SUCK AT MAKING SITES
